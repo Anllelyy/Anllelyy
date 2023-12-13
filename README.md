@@ -1,4 +1,5 @@
-# Cardiovascular Disease Anllely Chávez & Santiago Granja
+# Cardiovascular Disease 
+## For Anllely Chávez & Santiago Granja
 <!---
 Anllelyy/Anllelyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
